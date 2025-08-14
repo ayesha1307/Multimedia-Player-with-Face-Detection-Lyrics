@@ -16,7 +16,7 @@ It provides an integrated interface for image slideshows, music playback, synchr
 - **Progress Indicator**: Displays song playback status.
 
 ## Folder Structure
-![WhatsApp Image 2025-08-14 at 22 50 52_ab554a56](https://github.com/user-attachments/assets/39dc46dd-b890-46fb-bb8f-cf16978e9365)
+![WhatsApp Image 2025-08-14 at 22 50 52_0e6abe27](https://github.com/user-attachments/assets/e1f7a261-968f-45e8-bc4e-65ef1f6c3277)
 
 
 Install dependencies: pip install pygame opencv-python mutagen
